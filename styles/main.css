@@ -14,12 +14,7 @@ body{
     box-shadow: 5px 5px 0 0;
 }
 
-a:focus{
-    font-style: italic;
-    color: orangered;
-}
-
-a:hover{
+a:focus, a:hover{
     font-style: italic;
     color: orangered;
 }
@@ -40,6 +35,14 @@ h2{
     float: left;
 }
 
+main h3{
+    margin: 3em 2em 1.5em;
+    font-size: 105%;
+    border: 5px double blue;
+    border-radius: 20px;
+    box-shadow: 3px 3px 4px 4px red;
+    padding: 1em;
+}
 
 .shadow{
     text-shadow: 2px 2px 2px rgb(128,0,0);
@@ -60,17 +63,7 @@ main nav{
 }
 
 
-main h3{
-    margin-top: 3em;
-    margin-right: 2em;
-    margin-left: 2em;
-    margin-bottom: 1.5em;
-    font-size: 105%;
-    border: 5px double blue;
-    border-radius: 20px;
-    box-shadow: 3px 3px 4px 4px red;
-    padding: 1em;
-}
+
 
 .contact{
     margin: 1.5em 2em 0em;
