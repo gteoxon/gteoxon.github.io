@@ -65,6 +65,7 @@ article{
 
 article h3 {
     column-span: all;
+    border-top: 2px solid maroon;
 }
 
 article img{
