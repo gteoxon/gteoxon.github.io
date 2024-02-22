@@ -24,7 +24,6 @@ h1{
     color: maroon;
     text-indent: 30px;
     text-shadow: 2px 2px 2px rgb(128, 0, 0);
-
 }
 
 h2{
@@ -32,7 +31,6 @@ h2{
     color: #800000;
     text-indent: 30px;
     text-shadow: 2px 2px 2px rgb(128, 0, 0);
- 
 }
 
 main h3{
@@ -44,6 +42,9 @@ main h3{
     padding: 1em;
 }
 
+img{
+    float:left;
+}
 .shadow{
     text-shadow: 2px 2px 2px rgb(128,0,0);
 }
