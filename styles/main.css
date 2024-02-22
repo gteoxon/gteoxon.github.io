@@ -62,6 +62,9 @@ main nav{
 
 h3{
     margin-top: 3em;
+    margin-right: 2em;
+    margin-left: 2em;
+    margin-bottom: 1.5em;
     font-size: 105%;
     border: 5px double blue;
     border-radius: 20px;
