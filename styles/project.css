@@ -82,7 +82,7 @@ article p::first-letter{
 }
 
 aside{
-    width: 10%;
+    width: 20%;
     float: right;
     background-color: #ffebc6;
     padding: 3em;
