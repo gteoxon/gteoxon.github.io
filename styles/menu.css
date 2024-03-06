@@ -36,3 +36,7 @@ article ol {
 aside ul {
     list-style-type: square; 
 }
+
+aside {
+    list-style-type: upper-roman;
+}
